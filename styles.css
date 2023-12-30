@@ -22,7 +22,7 @@
 
 .res-card{
     padding: 5px;
-    height: 370px;
+    height: 350px;
     width: 190px;
     margin: 5px;
     background-color: #f0f0f0;
@@ -38,5 +38,6 @@
 }
 
 .res-logo {
-    width: 100%;
+    width: 200px;
+    height: 200px;
 }
