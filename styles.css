@@ -40,3 +40,8 @@
     width: 200px;
     height: 200px;
 }
+
+.filter-btn{
+    cursor: pointer;
+    margin-top: 10px;
+}

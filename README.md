@@ -14,3 +14,22 @@
 - Learnt about React Functional Components
 - Implemented JSX, Babel, Webpack and React Functional Components
 
+
+# The Swiggy clone website structure is as follows:
+
+/**
+ * Header
+ * - Logo
+ * - Nav Items
+ * Body
+ * - Search
+ * - Restaurant Container
+ *      - Restaurant Card
+ *          - Img
+ *          -  Name of Res, Rating, Cusines, Delivery Time
+ * Footer
+ * - Copyright
+ * - Links
+ * - Address
+ * - Contact
+ */
